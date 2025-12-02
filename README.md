@@ -51,7 +51,7 @@ This project is a static personal profile webpage created using pure HTML. It sh
 
 ## 📷 Screenshot
 
-*Add a screenshot here if you want*
+<img width="610" height="616" alt="image" src="https://github.com/user-attachments/assets/99aedfbe-b170-4ff6-8278-d70cdd048bfc" />
 
 ---
 
